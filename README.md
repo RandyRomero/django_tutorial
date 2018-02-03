@@ -1,2 +1,2 @@
 # django_tutorial
-Going through oficial django 1.11 Tutorial
+Going through official django 1.11 Tutorial
